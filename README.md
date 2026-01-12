@@ -6,7 +6,7 @@ This software is a "Hello World" Android application. It features a single activ
 
 My purpose for creating this software was to successfully set up a professional Android development environment, manage dependencies with Gradle, and understand the Android Activity lifecycle. It serves as a base for learning how to handle user interface elements and dynamic data manipulation.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uJudvCxyjDA)
 
 # Development Environment
 
